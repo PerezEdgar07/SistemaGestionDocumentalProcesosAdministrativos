@@ -2,20 +2,20 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package sistemagestiondocumentalprocesosadministrativos.Modelo.Vistas;
+package sistemagestiondocumentalprocesosadministrativos.Vistas;
 
 /**
  *
  * @author Charly Cimino
  */
-public class IdiomaVista extends javax.swing.JFrame {
+public class NivelSocioEconomico extends javax.swing.JFrame {
     
-    private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(IdiomaVista.class.getName());
+    private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(NivelSocioEconomico.class.getName());
 
     /**
-     * Creates new form IdiomaVista
+     * Creates new form NivelSocioEconomico
      */
-    public IdiomaVista() {
+    public NivelSocioEconomico() {
         initComponents();
     }
 
@@ -66,7 +66,7 @@ public class IdiomaVista extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(() -> new IdiomaVista().setVisible(true));
+        java.awt.EventQueue.invokeLater(() -> new NivelSocioEconomico().setVisible(true));
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

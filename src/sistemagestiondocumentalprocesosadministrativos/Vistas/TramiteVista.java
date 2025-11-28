@@ -2,20 +2,20 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package sistemagestiondocumentalprocesosadministrativos.Modelo.Vistas;
+package sistemagestiondocumentalprocesosadministrativos.Vistas;
 
 /**
  *
  * @author Charly Cimino
  */
-public class DispositivoVista extends javax.swing.JFrame {
+public class TramiteVista extends javax.swing.JFrame {
     
-    private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(DispositivoVista.class.getName());
+    private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(TramiteVista.class.getName());
 
     /**
-     * Creates new form DispositivoVista
+     * Creates new form TramiteVista
      */
-    public DispositivoVista() {
+    public TramiteVista() {
         initComponents();
     }
 
@@ -66,7 +66,7 @@ public class DispositivoVista extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(() -> new DispositivoVista().setVisible(true));
+        java.awt.EventQueue.invokeLater(() -> new TramiteVista().setVisible(true));
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

@@ -1,21 +1,15 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-package sistemagestiondocumentalprocesosadministrativos.Modelo.Vistas;
 
-/**
- *
- * @author Charly Cimino
- */
-public class TramiteVista extends javax.swing.JFrame {
+package sistemagestiondocumentalprocesosadministrativos.Vistas;
+
+
+public class PersonaVista extends javax.swing.JFrame {
     
-    private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(TramiteVista.class.getName());
+    private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(PersonaVista.class.getName());
 
     /**
-     * Creates new form TramiteVista
+     * Creates new form PersonaVista
      */
-    public TramiteVista() {
+    public PersonaVista() {
         initComponents();
     }
 
@@ -48,6 +42,7 @@ public class TramiteVista extends javax.swing.JFrame {
      * @param args the command line arguments
      */
     public static void main(String args[]) {
+        
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
@@ -66,7 +61,7 @@ public class TramiteVista extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(() -> new TramiteVista().setVisible(true));
+        java.awt.EventQueue.invokeLater(() -> new PersonaVista().setVisible(true));
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
