@@ -10,7 +10,7 @@ package sistemagestiondocumentalprocesosadministrativos.Vistas;
  */
 public class IdiomaVista extends javax.swing.JFrame {
     
-    private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(IdiomaVista.class.getName());
+   /* private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(IdiomaVista.class.getName());*/
 
     /**
      * Creates new form IdiomaVista
@@ -18,7 +18,7 @@ public class IdiomaVista extends javax.swing.JFrame {
     public IdiomaVista() {
         initComponents();
     }
-
+/*Domenica*/
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -28,21 +28,90 @@ public class IdiomaVista extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        buttonEleccion = new javax.swing.ButtonGroup();
+        jLabel1 = new javax.swing.JLabel();
+        radiobotonIdiomaEspañol = new javax.swing.JRadioButton();
+        radiobotonIdiomaHuaorani = new javax.swing.JRadioButton();
+        radiobotonIdiomaKichwua = new javax.swing.JRadioButton();
+        radiobotonIdiomaIngles = new javax.swing.JRadioButton();
+
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+
+        jLabel1.setFont(new java.awt.Font("Stencil", 2, 24)); // NOI18N
+        jLabel1.setText("IDIOMA");
+
+        radiobotonIdiomaEspañol.setText("Español");
+        radiobotonIdiomaEspañol.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                radiobotonIdiomaEspañolActionPerformed(evt);
+            }
+        });
+
+        radiobotonIdiomaHuaorani.setText("Huaorani");
+
+        buttonEleccion.add(radiobotonIdiomaKichwua);
+        radiobotonIdiomaKichwua.setText("Kichwua");
+        radiobotonIdiomaKichwua.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                radiobotonIdiomaKichwuaActionPerformed(evt);
+            }
+        });
+
+        radiobotonIdiomaIngles.setText("Ingles");
+        radiobotonIdiomaIngles.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                radiobotonIdiomaInglesActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 400, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(156, 156, 156)
+                        .addComponent(jLabel1))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(31, 31, 31)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(radiobotonIdiomaHuaorani, javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(radiobotonIdiomaIngles)
+                            .addComponent(radiobotonIdiomaKichwua)
+                            .addComponent(radiobotonIdiomaEspañol))))
+                .addContainerGap(159, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 300, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jLabel1)
+                .addGap(51, 51, 51)
+                .addComponent(radiobotonIdiomaEspañol)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(radiobotonIdiomaKichwua)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(radiobotonIdiomaHuaorani)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(radiobotonIdiomaIngles)
+                .addGap(18, 106, Short.MAX_VALUE))
         );
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+
+    private void radiobotonIdiomaEspañolActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_radiobotonIdiomaEspañolActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_radiobotonIdiomaEspañolActionPerformed
+
+    private void radiobotonIdiomaKichwuaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_radiobotonIdiomaKichwuaActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_radiobotonIdiomaKichwuaActionPerformed
+
+    private void radiobotonIdiomaInglesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_radiobotonIdiomaInglesActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_radiobotonIdiomaInglesActionPerformed
 
     /**
      * @param args the command line arguments
@@ -50,5 +119,11 @@ public class IdiomaVista extends javax.swing.JFrame {
    
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    public javax.swing.ButtonGroup buttonEleccion;
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JRadioButton radiobotonIdiomaEspañol;
+    private javax.swing.JRadioButton radiobotonIdiomaHuaorani;
+    private javax.swing.JRadioButton radiobotonIdiomaIngles;
+    private javax.swing.JRadioButton radiobotonIdiomaKichwua;
     // End of variables declaration//GEN-END:variables
 }
