@@ -3,7 +3,7 @@ package sistemagestiondocumentalprocesosadministrativos.Controladores;
 
 import java.util.Map;
 import sistemagestiondocumentalprocesosadministrativos.Modelo.Persona;
-import sistemagestiondocumentalprocesosadministrativos.Modelo.Vistas.PersonaVista;
+import sistemagestiondocumentalprocesosadministrativos.Vistas.PersonaVista;
 import sistemagestiondocumentalprocesosadministrativos.Servicio.PersonaServicio;
 
 

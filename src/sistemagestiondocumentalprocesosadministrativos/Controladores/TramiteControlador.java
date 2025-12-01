@@ -3,7 +3,7 @@ package sistemagestiondocumentalprocesosadministrativos.Controladores;
 
 import java.util.Map;
 import sistemagestiondocumentalprocesosadministrativos.Modelo.EstadoTramite;
-import sistemagestiondocumentalprocesosadministrativos.Modelo.Vistas.TramiteVista;
+import sistemagestiondocumentalprocesosadministrativos.Vistas.TramiteVista;
 import sistemagestiondocumentalprocesosadministrativos.Servicio.TramiteServicio;
 
 

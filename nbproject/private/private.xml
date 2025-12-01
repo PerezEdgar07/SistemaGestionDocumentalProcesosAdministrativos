@@ -3,21 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/Dispositivo.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/Idioma.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/PersonasIdioma.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/EstadoTramite.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/NivelDominio.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/Vistas/PersonaVista.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/Vistas/TramiteVista.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/Vistas/IdiomaVista.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/Vistas/DispositivoVista.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/Vistas/NivelSocioEconomico.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Modelo/Vistas/ReportesVista.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Controladores/PersonaControlador.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Servicio/PersonaServicio.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Controladores/TramiteControlador.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/Estructura%20de%20Datos/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Servicio/TramiteServicio.java</file>
+            <file>file:/C:/Users/and_j/OneDrive/Escritorio/Proyecto/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Servicio/PersonaServicio.java</file>
+            <file>file:/C:/Users/and_j/OneDrive/Escritorio/Proyecto/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/SistemaGestionDocumentalProcesosAdministrativos.java</file>
+            <file>file:/C:/Users/and_j/OneDrive/Escritorio/Proyecto/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Vistas/DispositivoVista.java</file>
+            <file>file:/C:/Users/and_j/OneDrive/Escritorio/Proyecto/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Vistas/IdiomaVista.java</file>
+            <file>file:/C:/Users/and_j/OneDrive/Escritorio/Proyecto/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Vistas/PersonaVista.java</file>
+            <file>file:/C:/Users/and_j/OneDrive/Escritorio/Proyecto/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Controladores/PersonaControlador.java</file>
+            <file>file:/C:/Users/and_j/OneDrive/Escritorio/Proyecto/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Vistas/ReportesVista.java</file>
+            <file>file:/C:/Users/and_j/OneDrive/Escritorio/Proyecto/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Vistas/NivelSocioEconomico.java</file>
+            <file>file:/C:/Users/and_j/OneDrive/Escritorio/Proyecto/SistemaGestionDocumentalProcesosAdministrativos/src/sistemagestiondocumentalprocesosadministrativos/Vistas/TramiteVista.java</file>
         </group>
     </open-files>
 </project-private>
